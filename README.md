@@ -7,7 +7,7 @@ GWarez is a universal cheat meant for cheating on any type of game.
 
 *Please note that GWarez is not guaranteed to work on any game, you may be banned on certain games!*
 
-![image](https://user-images.githubusercontent.com/71535863/138564716-e4582082-5ba2-4453-bbe3-9d5c04cfe39d.png)
+![image](https://user-images.githubusercontent.com/71535863/138610535-7ac3a144-13e2-48c5-8542-1f8e9e319f01.png)
 
 # Features
 - Hitbox Expander 
