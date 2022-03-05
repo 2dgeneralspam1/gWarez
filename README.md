@@ -10,3 +10,4 @@ v1.06
 - Added exeuction time counter
 - New notif lib 
 ```
+Join the Discord: https://dsc.gg/garfieldwarez
