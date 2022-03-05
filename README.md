@@ -11,3 +11,11 @@ v1.06
 - New notif lib 
 ```
 Join the Discord: https://dsc.gg/garfieldwarez
+
+```
+if syn then else
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/lua-releases/main/iris-compat.lua'))()
+end
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/gWarez/main/main.lua'))()
+```
