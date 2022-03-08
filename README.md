@@ -8,6 +8,7 @@ Featuring over 690 lines of code and the following optimized features;
 - Universal Hitbox expander
 - LocalPlayer modifiers
 - Visuals [ESP, Custom Crosshair and Fulbright]
+
 GWAREZ is something that should be in every script library. 
 
 **Previews:**
